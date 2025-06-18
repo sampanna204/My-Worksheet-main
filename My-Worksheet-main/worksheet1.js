@@ -10,7 +10,7 @@ console.log(name);
 console.log(age);
 console.log(student);
 /*output:
-sandesh
+sampanna
 17
 false
 */
