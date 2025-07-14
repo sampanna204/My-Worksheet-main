@@ -19,4 +19,4 @@ This repository includes worksheets covering:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Sandy-NEP/My-Worksheet.git
+   git clone https://github.com/sampanna204/My-Worksheet-main.git
